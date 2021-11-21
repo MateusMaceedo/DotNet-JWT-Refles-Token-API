@@ -1,5 +1,5 @@
 # DotNet-JWT-Refles-Token-API
-=======
+
 ### ASP.NET Core middleware that enables an application to receive an OpenID Connect bearer token e REFLESH TOKEN.
 
 #### Adicionando e instalando os pacotes:
